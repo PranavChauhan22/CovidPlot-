@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+    <title>Coviddata</title>
+</head>
+<body>
+    <script src="index.js"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+    <div id='map' style='width: 100vw; height: 100vh;top: 0;left: 0;position: absolute;'></div>
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoicHJhbmF2Y2hhdWhhbiIsImEiOiJja29uNWZsNTQwbjU5MnVvMTg4MzIyc2N5In0.OOaSwo_az4ZhCIXkBwjAgQ';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/dark-v10',
+center: [77.10,28.70],
+zoom: 8
+});
+</script>
+
+</body>
+</html>
