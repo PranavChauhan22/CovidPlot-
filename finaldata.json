@@ -1,0 +1,386 @@
+{
+  "data": {
+    "summary": {
+      "total": 23703665,
+      "confirmedCasesIndian": 23703617,
+      "confirmedCasesForeign": 48,
+      "discharged": 19734823,
+      "deaths": 258317,
+      "confirmedButLocationUnidentified": 0
+    },
+    "unofficial-summary": [
+      {
+        "source": "covid19india.org",
+        "total": 7945975,
+        "recovered": 7198877,
+        "deaths": 119538,
+        "active": 626192
+      }
+    ],
+    "regional": [
+      {
+        "loc": "Andaman and Nicobar Islands",
+        "confirmedCasesIndian": 6470,
+        "confirmedCasesForeign": 0,
+        "discharged": 6175,
+        "deaths": 81,
+        "totalConfirmed": 6470,
+        "latitude":11.74,
+        "longitude":92.65
+      },
+      {
+        "loc": "Andhra Pradesh",
+        "confirmedCasesIndian": 1344386,
+        "confirmedCasesForeign": 0,
+        "discharged": 1138028,
+        "deaths": 8988,
+        "totalConfirmed": 1344386,
+        "latitude":15.91,
+        "longitude":79.74
+      },
+      {
+        "loc": "Arunachal Pradesh",
+        "confirmedCasesIndian": 20854,
+        "confirmedCasesForeign": 0,
+        "discharged": 18691,
+        "deaths": 69,
+        "totalConfirmed": 20854,
+        "latitude":28.21,
+        "longitude":94.72
+      },
+      {
+        "loc": "Assam",
+        "confirmedCasesIndian": 310086,
+        "confirmedCasesForeign": 0,
+        "discharged": 265860,
+        "deaths": 1909,
+        "totalConfirmed": 310086,
+        "latitude":26.20,
+        "longitude":92.93
+      },
+      {
+        "loc": "Bihar",
+        "confirmedCasesIndian": 622433,
+        "confirmedCasesForeign": 0,
+        "discharged": 519306,
+        "deaths": 3503,
+        "totalConfirmed": 622433,
+        "latitude":25.09,
+        "longitude":85.31
+      },
+      {
+        "loc": "Chandigarh",
+        "confirmedCasesIndian": 52633,
+        "confirmedCasesForeign": 0,
+        "discharged": 43506,
+        "deaths": 599,
+        "totalConfirmed": 52633,
+        "latitude":30.73,
+        "longitude":76.77
+      },
+      {
+        "loc": "Chhattisgarh",
+        "confirmedCasesIndian": 883210,
+        "confirmedCasesForeign": 0,
+        "discharged": 749318,
+        "deaths": 11094,
+        "totalConfirmed": 883210,
+        "latitude":21.27,
+        "longitude":81.86
+      },
+      {
+        "loc": "Dadra and Nagar Haveli and Daman and Diu",
+        "confirmedCasesIndian": 9150,
+        "confirmedCasesForeign": 0,
+        "discharged": 8086,
+        "deaths": 4,
+        "totalConfirmed": 9150,
+        "latitude":20.18,
+        "longitude":73.01
+      },
+      {
+        "loc": "Delhi",
+        "confirmedCasesIndian": 1361985,
+        "confirmedCasesForeign": 1,
+        "discharged": 1258951,
+        "deaths": 20310,
+        "totalConfirmed": 1361986,
+        "latitude":28.70,
+        "longitude":77.10
+        
+      },
+      {
+        "loc": "Goa",
+        "confirmedCasesIndian": 127638,
+        "confirmedCasesForeign": 1,
+        "discharged": 92974,
+        "deaths": 1874,
+        "totalConfirmed": 127639,
+        "latitude":15.29,
+        "longitude":74.12
+      },
+      {
+        "loc": "Gujarat",
+        "confirmedCasesIndian": 714610,
+        "confirmedCasesForeign": 1,
+        "discharged": 578397,
+        "deaths": 8731,
+        "totalConfirmed": 714611,
+        "latitude":22.25,
+        "longitude":71.19
+      },
+      {
+        "loc": "Haryana",
+        "confirmedCasesIndian": 652728,
+        "confirmedCasesForeign": 14,
+        "discharged": 539609,
+        "deaths": 6075,
+        "totalConfirmed": 652742,
+        "latitude":29.05,
+        "longitude":76.08
+      },
+      {
+        "loc": "Himachal Pradesh",
+        "confirmedCasesIndian": 145736,
+        "confirmedCasesForeign": 0,
+        "discharged": 104714,
+        "deaths": 2068,
+        "totalConfirmed": 145736,
+        "latitude":31.10,
+        "longitude":77.17
+      },
+      {
+        "loc": "Jammu and Kashmir",
+        "confirmedCasesIndian": 229407,
+        "confirmedCasesForeign": 0,
+        "discharged": 174953,
+        "deaths": 2912,
+        "totalConfirmed": 229407,
+        "latitude":33.77,
+        "longitude":76.57
+      },
+      {
+        "loc": "Jharkhand",
+        "confirmedCasesIndian": 301257,
+        "confirmedCasesForeign": 0,
+        "discharged": 246608,
+        "deaths": 4182,
+        "totalConfirmed": 301257,
+        "latitude":23.61,
+        "longitude":85.27
+      },
+      {
+        "loc": "Karnataka",
+        "confirmedCasesIndian": 2053191,
+        "confirmedCasesForeign": 0,
+        "discharged": 1440621,
+        "deaths": 20368,
+        "totalConfirmed": 2053191,
+        "latitude":15.31,
+        "longitude":75.71
+      },
+      {
+        "loc": "Kerala",
+        "confirmedCasesIndian": 2010926,
+        "confirmedCasesForeign": 8,
+        "discharged": 1571738,
+        "deaths": 6053,
+        "totalConfirmed": 2010934,
+        "latitude":10.85,
+        "longitude":76.27
+      },
+      {
+        "loc": "Ladakh",
+        "confirmedCasesIndian": 15807,
+        "confirmedCasesForeign": 0,
+        "discharged": 14102,
+        "deaths": 158,
+        "totalConfirmed": 15807,
+        "latitude":34.22,
+        "longitude":77.56
+      },
+      {
+        "loc": "Lakshadweep",
+        "confirmedCasesIndian": 4202,
+        "confirmedCasesForeign": 0,
+        "discharged": 3171,
+        "deaths": 11,
+        "totalConfirmed": 4202,
+        "latitude":10.56,
+        "longitude":72.64
+      },
+      {
+        "loc": "Madhya Pradesh",
+        "confirmedCasesIndian": 700202,
+        "confirmedCasesForeign": 0,
+        "discharged": 583595,
+        "deaths": 6679,
+        "totalConfirmed": 700202,
+        "latitude":22.97,
+        "longitude":78.65
+      },
+      {
+        "loc": "Maharashtra",
+        "confirmedCasesIndian": 5226707,
+        "confirmedCasesForeign": 3,
+        "discharged": 4600196,
+        "deaths": 78007,
+        "totalConfirmed": 5226710,
+        "latitude":19.75,
+        "longitude":75.71
+      },
+      {
+        "loc": "Manipur",
+        "confirmedCasesIndian": 37036,
+        "confirmedCasesForeign": 0,
+        "discharged": 31238,
+        "deaths": 526,
+        "totalConfirmed": 37036,
+        "latitude":24.66,
+        "longitude":93.90
+      },
+      {
+        "loc": "Meghalaya",
+        "confirmedCasesIndian": 20985,
+        "confirmedCasesForeign": 0,
+        "discharged": 17354,
+        "deaths": 250,
+        "totalConfirmed": 20985,
+        "latitude":25.46,
+        "longitude":91.36
+      },
+      {
+        "loc": "Mizoram",
+        "confirmedCasesIndian": 8176,
+        "confirmedCasesForeign": 0,
+        "discharged": 6120,
+        "deaths": 23,
+        "totalConfirmed": 8176,
+        "latitude":23.16,
+        "longitude":92.93
+      },
+      {
+        "loc": "Nagaland",
+        "confirmedCasesIndian": 16890,
+        "confirmedCasesForeign": 0,
+        "discharged": 13428,
+        "deaths": 165,
+        "totalConfirmed": 16890,
+        "latitude":26.15,
+        "longitude":94.56
+      },
+      {
+        "loc": "Odisha",
+        "confirmedCasesIndian": 565648,
+        "confirmedCasesForeign": 0,
+        "discharged": 473680,
+        "deaths": 2232,
+        "totalConfirmed": 565648,
+        "latitude":20.95,
+        "longitude":85.09
+      },
+      {
+        "loc": "Puducherry",
+        "confirmedCasesIndian": 77031,
+        "confirmedCasesForeign": 0,
+        "discharged": 60424,
+        "deaths": 1045,
+        "totalConfirmed": 77031,
+        "latitude":11.94,
+        "longitude":79.80
+      },
+      {
+        "loc": "Punjab",
+        "confirmedCasesIndian": 467539,
+        "confirmedCasesForeign": 0,
+        "discharged": 376465,
+        "deaths": 11111,
+        "totalConfirmed": 467539,
+        "latitude":31.14,
+        "longitude":75.34
+      },
+      {
+        "loc": "Rajasthan",
+        "confirmedCasesIndian": 805656,
+        "confirmedCasesForeign": 2,
+        "discharged": 590390,
+        "deaths": 6158,
+        "totalConfirmed": 805658,
+        "latitude":27.02,
+        "longitude":74.21
+      },
+      {
+        "loc": "Sikkim",
+        "confirmedCasesIndian": 10392,
+        "confirmedCasesForeign": 0,
+        "discharged": 7343,
+        "deaths": 183,
+        "totalConfirmed": 10392,
+        "latitude":27.53,
+        "longitude":88.51
+      },
+      {
+        "loc": "Tamil Nadu",
+        "confirmedCasesIndian": 1468858,
+        "confirmedCasesForeign": 6,
+        "discharged": 1279658,
+        "deaths": 16471,
+        "totalConfirmed": 1468864,
+        "latitude":11.12,
+        "longitude":78.65
+      },
+      {
+        "loc": "Telangana",
+        "confirmedCasesIndian": 511711,
+        "confirmedCasesForeign": 0,
+        "discharged": 449744,
+        "deaths": 2834,
+        "totalConfirmed": 511711,
+        "latitude":18.11,
+        "longitude":79.01
+      },
+      {
+        "loc": "Tripura",
+        "confirmedCasesIndian": 39054,
+        "confirmedCasesForeign": 0,
+        "discharged": 34946,
+        "deaths": 424,
+        "totalConfirmed": 39054,
+        "latitude":23.94,
+        "longitude":91.98
+      },
+      {
+        "loc": "Uttarakhand",
+        "confirmedCasesIndian": 264682,
+        "confirmedCasesForeign": 1,
+        "discharged": 183478,
+        "deaths": 4123,
+        "totalConfirmed": 264683,
+        "latitude":30.06,
+        "longitude":79.01
+      },
+      {
+        "loc": "Uttar Pradesh",
+        "confirmedCasesIndian": 1563234,
+        "confirmedCasesForeign": 1,
+        "discharged": 1340251,
+        "deaths": 16369,
+        "totalConfirmed": 1563235,
+        "latitude":26.84,
+        "longitude":80.94
+      },
+      {
+        "loc": "West Bengal",
+        "confirmedCasesIndian": 1053117,
+        "confirmedCasesForeign": 0,
+        "discharged": 911705,
+        "deaths": 12728,
+        "totalConfirmed": 1053117,
+        "latitude":22.98,
+        "longitude":87.85
+      }
+    ]
+  },
+  "lastRefreshed": "2021-05-13T18:06:18.118Z",
+  "lastOriginUpdate": "2021-05-13T02:30:00.000Z"
+}
